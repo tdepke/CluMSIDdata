@@ -5,8 +5,8 @@ Version: 0.1.0
 Authors@R: person("Tobias", "Depke", email = "tobias.depke@helmholtz-hzi.de", 
     role = c("aut", "cre"))
 Maintainer: Tobias Depke <tobias.depke@helmholtz-hzi.de>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: This package contains various LC-MS/MS and GC-MS data
+    that is used in vignettes and examples in the CluMSID package.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
