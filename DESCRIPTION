@@ -1,7 +1,7 @@
 Package: CluMSIDdata
 Type: Package
 Title: Data for the CluMSID package
-Version: 0.99.0
+Version: 0.99.1
 Authors@R: person("Tobias", "Depke", email = "tobias.depke@helmholtz-hzi.de", 
     role = c("aut", "cre"))
 Maintainer: Tobias Depke <tobias.depke@helmholtz-hzi.de>
