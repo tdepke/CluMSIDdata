@@ -9,3 +9,4 @@
 0.99.1
 
 + started ignoring CluMSIDdata.Rproj
++ updated R version dependency
