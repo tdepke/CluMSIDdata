@@ -10,3 +10,15 @@
 
 + started ignoring CluMSIDdata.Rproj
 + updated R version dependency
+
+0.99.2
+
++ updated R version dependency to 3.5.1
+
+0.99.3
+
++ updated R version dependency to 3.6
+
+0.99.4
+
++ removed invalid character from GC_post.csv
