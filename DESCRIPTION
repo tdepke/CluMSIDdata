@@ -1,7 +1,7 @@
 Package: CluMSIDdata
 Type: Package
 Title: Data for the CluMSID package
-Version: 0.99.2
+Version: 0.99.3
 Authors@R: person("Tobias", "Depke", email = "tobias.depke@helmholtz-hzi.de", 
     role = c("aut", "cre"))
 Maintainer: Tobias Depke <tobias.depke@helmholtz-hzi.de>
@@ -11,5 +11,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends:
-    R (>= 3.5.1)
+    R (>= 3.6)
 biocViews: ExperimentData, MassSpectrometryData
